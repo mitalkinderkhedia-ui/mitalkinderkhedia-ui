@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on novel topics in machine learning<br>👯 I’m open to collaborations, drop me a line<br>🤝 I actively mentor, drop me a line<br>🌱 I’m currently learning how to make sushi<br>💬 Ask me about building machine learning models<br>⚡ Fun fact - I can make you laugh
+🔭 I’m currently working on novel topics in machine learning<br>👯 I’m open to collaborations, drop me a line<br>🤝 I actively mentor, drop me a line<br>🌱 I’m currently learning how to make VEGAN sushi<br>💬 Ask me about building machine learning models, graph-based machine learning<br>⚡ Fun fact - I can make you laugh
 
 
 # 💻 Tech Stack:
