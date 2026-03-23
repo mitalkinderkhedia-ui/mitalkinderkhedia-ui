@@ -20,6 +20,51 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+Tech Stack
+## 🚀 Tech Stack Showcase
+
+<div align="center">
+
+### 🧠 Language Models, RAG & AI Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+### 🗂️ Vector Databases  
+<p>
+  <img src="https://img.shields.io/badge/Chroma-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-8800FF?style=for-the-badge" />
+</p>
+
+---
+
+### 🤖 Large Language Models  
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral_AI-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama_3_%28Ollama%29-000000?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Deployment & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
