@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mital Kinderkhedia</h1>
 <hr>
-- 🌱 I’m currently learning **how to make VEGAN Sushi**
 
 - 📝 I regularly write articles on [https://learningwithstructure.substack.com/](https://learningwithstructure.substack.com/)
-
 - 💬 Ask me about **mahcine learning and graph based machine learning**
-
 - ⚡ Fun fact **I can make you laugh**
+- 🌱 I’m currently learning **how to make VEGAN Sushi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
