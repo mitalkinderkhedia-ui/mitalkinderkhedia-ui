@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on novel topics in machine learning
-
+<br>
 💬 Ask me about building machine learning models, graph-based machine learning  
 👯 I’m open to collaborations — drop me a line  
 🤝 I actively mentor — drop me a line  
