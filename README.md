@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mital Kinderkhedia</h1>
 <h3 align="center">Research scientist & AI Engineer</h3>
 <hr>
-- 📝 I regularly write articles on [https://learningwithstructure.substack.com/](https://learningwithstructure.substack.com/)
+- 📝 I regularly write articles on https://learningwithstructure.substack.com/ 
+<br>
 - 💬 Ask me about **graph based machine learning**
-- 📫 How to reach me **mitalkinderkhedia@gmail.com**
+<br>
 - ⚡ Fun fact **I can make you laugh**
+<br>
 - 🌱 I’m currently learning **how to make sushi**
 <hr>
 <h3 align="left">Core Languages & Foundations:</h3>
