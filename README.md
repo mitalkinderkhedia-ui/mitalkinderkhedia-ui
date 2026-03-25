@@ -9,16 +9,22 @@
 ---
 
 ⭐ Tech Stack
+<hr>
 🧠 Machine Learning & Data Science
 Keras • Matplotlib • MLflow • NumPy • Pandas • PyTorch • Plotly • Scikit‑learn • SciPy • TensorFlow
+<hr>
 🤖 LLMs, RAG & AI Frameworks
 LangChain • LlamaIndex • HuggingFace Transformers
+<hr>
 🕸️ Graph‑AI & Knowledge Graphs
 GraphRAG • NetworkX • Neo4j GDS • TigerGraph • GraphQL • Pinecone • Weaviate • Qdrant
+<hr>
 ☁️ Cloud, DevOps & Backend
 OpenAI API • Mistral • Docker • FastAPI • AWS • GitHub Actions • Azure • Apache Tomcat • Anaconda • GitHub
 🗄️ Databases
+<hr>
 SQL Server • MongoDB • MySQL • Neo4j
+<hr>
 🎨 Creative Tools
 Adobe Dreamweaver • Adobe Creative Cloud • Adobe Audition • Canva
 
