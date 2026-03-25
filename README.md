@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on novel topics in machine learning  
+🔭 I’m currently working on novel topics in machine learning
+💬 Ask me about building machine learning models, graph-based machine learning  
 👯 I’m open to collaborations — drop me a line  
 🤝 I actively mentor — drop me a line  
 🌱 I’m currently learning how to make VEGAN sushi  
-💬 Ask me about building machine learning models, graph-based machine learning  
-⚡ Fun fact — I can make you laugh!
+⚡ Fun fact: I can make you laugh!
 
 ---
 
