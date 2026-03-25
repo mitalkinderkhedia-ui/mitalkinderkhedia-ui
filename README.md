@@ -3,11 +3,11 @@
 <hr>
 - 📝 I regularly write articles on https://learningwithstructure.substack.com/ 
 <br>
-- 💬 Ask me about **graph based machine learning**
+- 💬 Ask me about Machine Learning & Graph-based Machine Learning**
 <br>
-- ⚡ Fun fact **I can make you laugh**
+- ⚡ Fun fact - I can make you laugh
 <br>
-- 🌱 I’m currently learning **how to make sushi**
+- 🌱 I’m currently learning to make VEGAN Sushi**
 <hr>
 <h3 align="left">Core Languages & Foundations:</h3>
 
