@@ -3,10 +3,10 @@
 <hr>
 🔭 I’m currently working on novel topics in machine learning
 <br>
-💬 Ask me about building machine learning models, graph-based machine learning  
-👯 I’m open to collaborations — drop me a line  
-🤝 I actively mentor — drop me a line  
-🌱 I’m currently learning how to make VEGAN sushi  
+💬 Ask me about building machine learning models, graph-based machine learning  <br>
+👯 I’m open to collaborations — drop me a line  <br>
+🤝 I actively mentor — drop me a line  <br>
+🌱 I’m currently learning how to make VEGAN sushi  <br>
 ⚡ Fun fact: I can make you laugh!
 
 ---
