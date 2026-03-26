@@ -1,4 +1,6 @@
 # 💫 About Me:
+<i>I design AI systems that learn from relationships, connectivity, and structure to solve complex, real-world data problems</i>
+<hr>
 🔭 I’m currently working on novel topics in machine learning
 <br>
 💬 Ask me about building machine learning models, graph-based machine learning  
