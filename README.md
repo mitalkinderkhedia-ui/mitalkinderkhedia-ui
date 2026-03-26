@@ -35,7 +35,7 @@ Adobe Dreamweaver • Adobe Creative Cloud • Adobe Audition • Canva
 ---
 
 ## 📜 Certifications
-- 🏅 **Microsoft Analytics Engineer Associate**  
+- 🏅 **Microsoft Fabric Analytics Engineer Associate**  
 - 🏅 **Microsoft Azure Data Scientist**
 - 🏅 **Microsoft Azure AI Engineer Associate**
 
