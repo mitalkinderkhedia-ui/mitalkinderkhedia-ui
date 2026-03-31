@@ -17,7 +17,7 @@
 Keras • Matplotlib • MLflow • NumPy • Pandas • PyTorch • Plotly • Scikit‑learn • SciPy • TensorFlow
 <hr>
 🤖 LLMs, RAG & AI Frameworks <br>
-LangChain • LlamaIndex • HuggingFace Transformers
+LangChain • LlamaIndex • HuggingFace Transformers • OpenAI
 <hr>
 🕸️ Graph‑AI & Knowledge Graphs <br>
 GraphRAG • NetworkX • Neo4j GDS • TigerGraph • GraphQL • Pinecone • Weaviate • Qdrant
@@ -37,6 +37,7 @@ Adobe Dreamweaver • Adobe Creative Cloud • Adobe Audition • Canva
 ---
 
 ## 📜 Certifications
+- 🏅 **Comptia Data AI** 
 - 🏅 **Microsoft Fabric Analytics Engineer Associate**  
 - 🏅 **Microsoft Azure Data Scientist**
 - 🏅 **Microsoft Azure AI Engineer Associate**
