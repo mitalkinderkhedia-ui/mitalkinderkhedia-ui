@@ -43,12 +43,13 @@ Adobe Dreamweaver • Adobe Creative Cloud • Adobe Audition • Canva
 
 ---
 
-# 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false)
+<!-- # 📊 GitHub Stats
+"""![Stats]([https://github-readme-stats.vercel.app/api?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false](https://github-readme-stats.vercel.app/api?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false&cache_seconds=7200&token=YOUR_TOKEN
+))
 
 ![Streak Stats](https://streak-stats.demolab.com?user=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitalkinderkhedia-ui&theme=shadow_blue&hide_border=false&layout=compact) -->
 
 ---
 
