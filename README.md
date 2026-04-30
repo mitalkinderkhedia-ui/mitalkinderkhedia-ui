@@ -23,7 +23,7 @@ LangChain • LlamaIndex • HuggingFace Transformers • OpenAI
 GraphRAG • NetworkX • Neo4j GDS • TigerGraph • GraphQL • Pinecone • Weaviate • Qdrant
 <hr>
 ☁️ Cloud, DevOps & Backend <br>
-OpenAI API • Mistral • Docker • FastAPI • AWS • GitHub Actions • Azure • Apache Tomcat • Anaconda • GitHub
+OpenAI API • Mistral • Docker • FastAPI • AWS • GitHub Actions • Azure • Apache Tomcat • Ms Fabric
 <hr>
 🗄️ Databases
 <br>
