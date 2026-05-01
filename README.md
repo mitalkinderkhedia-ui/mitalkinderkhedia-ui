@@ -1,5 +1,5 @@
 # 💫 About Me:
-<i>I design AI systems that learn from relationships, connectivity, and structure to solve complex, real-world data problems</i>
+<i>I design & put into production AI systems that learn from relationships, connectivity, and structure to solve complex, real-world data problems</i>
 <hr>
 🔭 I’m currently working on novel topics in machine learning
 <br>
