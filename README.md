@@ -1,9 +1,9 @@
 # 💫 About Me:
 <i>I design & put into production AI systems that learn from relationships, connectivity, and structure to solve complex, real-world data problems</i>
 <hr>
-🔭 I’m currently working on novel topics in machine learning
+🔭 I’m currently working on novel topics in Machine Learning & AI
 <br>
-💬 Ask me about building machine learning models, graph-based machine learning  <br>
+💬 Ask me about building machine learning models, graph-based machine learning, agentic systems  <br>
 👯 I’m open to collaborations — drop me a line  <br>
 🤝 I actively mentor — drop me a line  <br>
 🌱 I’m currently learning how to make VEGAN sushi  <br>
