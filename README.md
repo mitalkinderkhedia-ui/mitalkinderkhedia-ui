@@ -14,7 +14,7 @@
 # ⭐ Tech Stack
 
 🧠 Machine Learning & Data Science <br>
-Keras • Matplotlib • MLflow • NumPy • Pandas • PyTorch • Plotly • Scikit‑learn • SciPy • TensorFlow
+Keras • Matplotlib • MLflow • NumPy • Pandas • PyTorch • Plotly • Scikit‑learn • SciPy • TensorFlow • JAX
 <hr>
 🤖 LLMs, RAG & AI Frameworks <br>
 LangChain • LlamaIndex • HuggingFace Transformers • OpenAI
